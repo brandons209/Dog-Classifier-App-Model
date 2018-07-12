@@ -1,3 +1,6 @@
+bottleneck_features/
+dogImages/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
